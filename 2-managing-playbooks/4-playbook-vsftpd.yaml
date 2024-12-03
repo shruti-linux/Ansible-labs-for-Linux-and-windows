@@ -1,4 +1,4 @@
----
+---"£$$%^^&&*())_+{}~:@>?<!"£$%^^&^&&*()_+:{}~:@<>?
 - name: Installing the vsftpd and starting its service also adding the service and port in firewall
   hosts: all
   tasks:
